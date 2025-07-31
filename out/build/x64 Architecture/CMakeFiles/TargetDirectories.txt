@@ -1,0 +1,8 @@
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/DeliverySystem.dir
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/Experimental.dir
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/Nightly.dir
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/Continuous.dir
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/RUN_TESTS.dir
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/ALL_BUILD.dir
+C:/Users/sssim/interviewprep/tuteSheet2/DeliverySystem/out/build/x64 Architecture/CMakeFiles/ZERO_CHECK.dir

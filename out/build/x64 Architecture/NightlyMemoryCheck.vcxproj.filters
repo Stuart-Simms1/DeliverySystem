@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\out\build\x64 Architecture\CMakeFiles\ee1c449a3cd77589fa565de16c7b9b2f\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\out\build\x64 Architecture\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{55EA5F9E-A266-3237-821E-AE31FC478D07}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

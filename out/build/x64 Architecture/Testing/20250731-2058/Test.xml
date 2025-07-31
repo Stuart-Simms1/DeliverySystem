@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20250731-2058-Experimental"
+	Name="DESKTOP-GMLNN7F"
+	Generator="ctest-3.31.6-msvc6"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.44.35213.0"
+	OSName="Windows"
+	Hostname="DESKTOP-GMLNN7F"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19045)"
+	OSPlatform="x86"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="14999"
+	TotalPhysicalMemory="8110"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2805"
+	>
+	<Testing>
+		<StartDateTime>Jul 31 22:02 GMT Summer Time</StartDateTime>
+		<StartTestTime>1753995767</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 31 22:02 GMT Summer Time</EndDateTime>
+		<EndTestTime>1753995767</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
