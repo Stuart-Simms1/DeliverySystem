@@ -1,0 +1,41 @@
+This is the initial plan for the final structure of the project
+NB: list is used as a placeholder for a sensible data structure which can be decided later
+
+main.cpp - should call the constructor for the World class
+         - at each timestep should update the World and draw it to the display
+
+class World - should contain lists of all the entities that need to exist for the system
+                - the store
+                - the customers
+                - the robots
+                - the baskets that have been ordered
+                - possibly the graph underlying the customers and store should be
+            - should have a function that updates the state of the World
+            - should have a function that draws the contents to the display
+
+class Customer - should contain a name, a node, a list of edges, a list of baskets it has ordered, and a list of baskets it has received
+               - should have a function to order a basket from the store
+               - should have a function to receive a basket from a robot
+
+class Store - should inherit from Customer - the difference/added functionality is in the ordering
+            - should have a function to put a basket that a customer ordered into the warehouse
+            - should have a function to give a basket to a robot
+
+class Robot - should contain a list of baskets it is delivering
+            - should have a function that can pick up a basket from the store
+            - should have a function that can deliver a basket to a customer
+            - should have a funtion to move along an edge to/towards a node
+            - if I implement it with a Path it can go in sub-edge steps
+
+
+class Basket - should contain the name of the customer that ordered it, and some contents
+
+possibly class Graph - should contain the nodes and edges that make up the graph
+                     - should have a function that finds the shortest path between two nodes
+
+class Edge - should contain two end nodes, a weight, and possibly a Path
+
+class Node - should contain an x and a y coordinate 
+
+possibly class Path - should inherit from Edge
+                    - should contain a list of pixels which represent the Edge.
