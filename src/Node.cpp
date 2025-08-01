@@ -7,7 +7,7 @@ std::vector<int> Node::getCoord() const {
     return _coord;
 };
 
-void Node::printCoord() const{
+void Node::printNode() const{
     auto myX = _coord[0];
     auto myY = _coord[1];
     std::cout << '(' << _coord[0] << ", " << _coord[1] << ") ";
@@ -23,6 +23,6 @@ int main(){
     int yCoord = 2;
     Node testNode(xCoord,yCoord);   //should construct a node with _coord = (xCoord,yCoord)
     std::vector<int> testCoord = testNode.getCoord(); //should return a vector testCoord = (xCoord,yCoord)
-    testNode.printCoord(); //should print "(xCoord, yCoord) " to the console
+    testNode.printNode(); //should print "(xCoord, yCoord) " to the console
 }
 */

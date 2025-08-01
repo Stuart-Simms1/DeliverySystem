@@ -14,11 +14,11 @@ int Edge::getWeight() const{
 }
 
 void Edge::printEdge() const{
-    std::cout << "Edge between: ";
-    _node1.printCoord();
+    std::cout << "{Edge between: ";
+    _node1.printNode();
     std::cout << "and ";
-    _node2.printCoord();
-    std::cout << "\nEdge weight: " << _weight << "\n";
+    _node2.printNode();
+    std::cout << "\nEdge weight: " << _weight << "}\n";
 }
 
 //Tests run in main.cpp ALL TESTS PASSED

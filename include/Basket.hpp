@@ -2,6 +2,7 @@
 /* it contains a std::string _name of the customer who has ordered the basket
 - a std::string _content which it is "holding" (this can be changed to an enum if things get more complicated)
 - a constructor function
+- a copy constructor
 - a function to return the _name
 - a funtion to return the _content
 - a funtion to print the basket for testing
@@ -13,7 +14,10 @@ class Basket{
  public:
     //Class Basket construtor accepting a string name and a string content
     Basket(const std::string& name, const std::string& content);
-
+    // //Copy constructor
+    // Basket(const Basket& basket);
+    // //assignment operator
+    // Basket& operator=(const Basket& basket);
     //getter for the name
     std::string getName() const;
 
@@ -26,5 +30,4 @@ class Basket{
  private:
     const std::string _name;
     const std::string _content;
-
 };

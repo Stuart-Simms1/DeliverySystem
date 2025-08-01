@@ -17,7 +17,7 @@ class Node{
     std::vector<int> getCoord() const;
 
     //print function to display the Node's _coord
-    void printCoord() const;
+    void printNode() const;
     
  private:
     const std::vector<int> _coord;

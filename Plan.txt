@@ -13,7 +13,7 @@ class World - should contain lists of all the entities that need to exist for th
             - should have a function that updates the state of the World
             - should have a function that draws the contents to the display
 
-class Customer - should contain a name, a node, a list of edges, a list of baskets it has ordered, and a list of baskets it has received
+class Customer - should contain a name, a node, a list of baskets it has ordered, and a list of baskets it has received
                - should have a function to order a basket from the store
                - should have a function to receive a basket from a robot
 
@@ -30,8 +30,9 @@ class Robot - should contain a list of baskets it is delivering
 
 class Basket - should contain the name of the customer that ordered it, and some contents
 
-possibly class Graph - should contain the nodes and edges that make up the graph
-                     - should have a function that finds the shortest path between two nodes
+class Graph - should contain the nodes and edges that make up the graph
+            - should have a function that finds the shortest path between two nodes
+            - possibly should have a function that finds the shortest loop containing multiple nodes
 
 class Edge - should contain two end nodes, a weight, and possibly a Path
 
