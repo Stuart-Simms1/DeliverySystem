@@ -4,12 +4,18 @@
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Edge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Node.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Edge.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

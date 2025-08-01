@@ -329,7 +329,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Node.hpp" />
+    <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Edge.hpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Node.cpp" />
+    <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Edge.cpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\main.cpp" />
   </ItemGroup>
   <ItemGroup />
