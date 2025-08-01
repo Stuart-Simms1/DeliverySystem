@@ -35,7 +35,7 @@ possibly class Graph - should contain the nodes and edges that make up the graph
 
 class Edge - should contain two end nodes, a weight, and possibly a Path
 
-class Node - should contain an x and a y coordinate 
-
 possibly class Path - should inherit from Edge
                     - should contain a list of pixels which represent the Edge.
+
+class Node - should contain an x and a y coordinate 

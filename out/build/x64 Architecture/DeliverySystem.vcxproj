@@ -328,6 +328,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Node.hpp" />
+    <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Node.cpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\main.cpp" />
   </ItemGroup>
   <ItemGroup />
