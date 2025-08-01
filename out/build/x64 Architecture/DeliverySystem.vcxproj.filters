@@ -13,6 +13,9 @@
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Customer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Robot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -28,6 +31,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Customer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Robot.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
