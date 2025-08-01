@@ -329,15 +329,15 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Node.hpp" />
-    <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Path.hpp" />
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Edge.hpp" />
+    <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Graph.hpp" />
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Basket.hpp" />
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Customer.hpp" />
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\Robot.hpp" />
     <ClInclude Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\include\World.hpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Node.cpp" />
-    <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Path.cpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Edge.cpp" />
+    <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Graph.cpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Basket.cpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Customer.cpp" />
     <ClCompile Include="C:\Users\sssim\interviewprep\tuteSheet2\DeliverySystem\src\Robot.cpp" />

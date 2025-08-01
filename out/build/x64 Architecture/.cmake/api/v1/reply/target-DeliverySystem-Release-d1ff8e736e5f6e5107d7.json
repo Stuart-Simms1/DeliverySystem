@@ -141,12 +141,12 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "include/Path.hpp",
+			"path" : "include/Edge.hpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "include/Edge.hpp",
+			"path" : "include/Graph.hpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -178,13 +178,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Path.cpp",
+			"path" : "src/Edge.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/Edge.cpp",
+			"path" : "src/Graph.cpp",
 			"sourceGroupIndex" : 1
 		},
 		{
